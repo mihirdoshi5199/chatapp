@@ -20,11 +20,6 @@ Pull requests are always welcome. For major changes,
 please open an issue first to discuss what you would like to change.
 
 ```
-
-### Few Screenshots
-
-![Homepage](/screenshots/Homepage.png "Homepage")
-
 ## Features
 
 - Latest features of JavaScript i.e. ES6, ES7, ES8 is used
@@ -63,23 +58,18 @@ MongoDB, Express, React, Node, Socket.IO, Chakra-UI
 
 ## Hosted/Deployed
 
-"https://streamon-chat-app.herokuapp.com/";
+Still pending
 
 ## Usage
 
 **Test users**
 
 | Email          | Password  |
-| -------------- | --------- |
-| kohli@test.com | kohlitest |
+| guesttest  |  | StreamOnGuest12345
+
+| mihir01@gmail.com | mihir12345 |
 
 `Or Use the guest user login feature. `
-
-### Clone the repository:
-
-```
-git clone https://github.com/SiddharthSsb11/MERN-chat-app.git
-```
 
 ### Env Variables
 
