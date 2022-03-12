@@ -55,7 +55,7 @@ MongoDB, Express, React, Node, Socket.IO, Chakra-UI
 
 ## Hosted/Deployed
 
-Still pending
+Still in progress 
 
 ## Usage
 
