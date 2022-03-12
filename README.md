@@ -46,9 +46,6 @@ please open an issue first to discuss what you would like to change.
 <ul>
  <li> Realtime One on One chats and group chats </li>
  <li> Functionality and features like Search for chats, create a group, add or remove partricipants. </li>   
- <li> typing... animation. </li>
- <li> Online / Offline status are shown . </li>
- <li> Read / Unread status of conversation is supported
  <li> All the conversation are stored in the database i.e. <i>persistant</i>
 </ul>
 
@@ -105,8 +102,4 @@ npm start
 
 ## Build & Deploy
 
-```
-# Create frontend production build
-cd frontend
-npm run build
-```
+Still in progress
